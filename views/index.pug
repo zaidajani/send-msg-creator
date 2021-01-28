@@ -1,0 +1,22 @@
+doctype html
+html(lang="en")
+  head
+    title Ask question to creator
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+    link(rel='stylesheet', href='/static/style.css')
+  body
+    #main
+     form(action="/message" method="POST")
+       div.label Ask question to creator
+       div.username
+        input(type="text" placeholder="Name" name="name")
+       div.password
+        input(type="text" placeholder="message in one line" name="message")
+       div.password
+        input(type="text" placeholder="Email" name="email")
+       button(type="submit") Ask question
+      
+  
