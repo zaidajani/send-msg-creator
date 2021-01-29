@@ -33,6 +33,6 @@ Make sure that you check <a href="https://myaccount.google.com/lesssecureapps">h
 
 You are done!
 
-## Send messages to creator, and the creators email sent will get the message.
+## Send messages to creator, and the creator will read the message from their sentlist.
 
 ## Enjoy your powerfull application
