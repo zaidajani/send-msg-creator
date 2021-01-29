@@ -4,7 +4,7 @@ Send messages to the creator using gmail service.
 
 Made using html, css, pug, node js, javascript, express and most importantly node mailer.
 
-![demo]('./public/demo.png')
+![demo]('/public/demo.png')
 
 ## initialization
 
