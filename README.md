@@ -15,7 +15,7 @@ Made using html, css, pug, node js, javascript, express and most importantly nod
   
   # Clone and get into the folder
   
-  $ npm install 
+  $ npm install # or yarn 
   
   # to install all the dependencies
 ```
