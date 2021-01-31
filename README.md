@@ -19,7 +19,7 @@ Made using html, css, pug, node js, javascript, express and most importantly nod
   
   # to install all the dependencies
 
-  $ non run dev
+  $ npm run dev
 
   # your application is up and running!
 ```
