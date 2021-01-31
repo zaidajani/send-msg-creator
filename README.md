@@ -18,6 +18,10 @@ Made using html, css, pug, node js, javascript, express and most importantly nod
   $ npm install # or yarn 
   
   # to install all the dependencies
+
+  $ non run dev
+
+  # your application is up and running!
 ```
 
 ## Step two: Make dotenv file.
