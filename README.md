@@ -41,4 +41,4 @@ You are done!
 
 ## Send messages to creator, and the creator will read the message from their sentlist.
 
-## Enjoy your powerfull application
+## Enjoy your powerfull Application
