@@ -2,7 +2,7 @@
 
 Send messages to the creator using gmail service.
 
-Made using html, css, pug, node js, javascript, express and most importantly node mailer.
+Made using html, css, pug (template engine), node js, javascript, express and most importantly node mailer.
 
 ![demo](public/demo.png)
 
