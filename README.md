@@ -6,7 +6,7 @@ Made using html, css, pug (template engine), node js, javascript, express and mo
 
 ![demo](public/demo.png)
 
-## initialization
+## Initialization
 
 ```
   $ git clone https://github.com/zaidajani/send-msg-creator.git
